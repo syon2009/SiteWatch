@@ -3,8 +3,7 @@
 One dashboard for wireless LoRaWAN temperature, corrosion (ISA-71.04) and gas sensors.
 Runs on your own Windows PC and your own network. No cloud, no subscription. Developed by Syon Automation LLC.
 
-**Download:** [SiteWatch-Setup-3.10.0.exe](https://github.com/syon2009/SiteWatch/releases/download/v3.10.0/SiteWatch-Setup-3.10.0.exe) (free 14-day trial, every feature)
-· IT / silent install: [SiteWatch-3.10.0.msi](https://github.com/syon2009/SiteWatch/releases/download/v3.10.0/SiteWatch-3.10.0.msi)
+**Download:** [SiteWatch-Setup-3.10.0.exe](https://syonautomation.com/download/SiteWatch-Setup-3.10.0.exe) (free 14-day trial, every feature)
 · Product page and licenses: https://syonautomation.com/sitewatch.html
 
 ## Proof of concept: a real installation
@@ -37,6 +36,6 @@ Calibrated against the proof-of-concept hardware (stock antennas), the safe rang
 
 ## Versions
 
-See [CHANGELOG.md](CHANGELOG.md). Installers are on the [Releases](https://github.com/syon2009/SiteWatch/releases) page.
+See [CHANGELOG.md](CHANGELOG.md). The current installer is on the [product page](https://syonautomation.com/sitewatch.html); older ones are on the [Releases](https://github.com/syon2009/SiteWatch/releases) page.
 
 Copyright 2026 Syon Automation LLC. SiteWatch is commercial software; the installer includes the end user license agreement, privacy statement and third-party notices.
