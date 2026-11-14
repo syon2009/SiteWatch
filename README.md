@@ -3,7 +3,7 @@
 One dashboard for wireless LoRaWAN temperature, corrosion (ISA-71.04) and gas sensors.
 Runs on your own Windows PC and your own network. No cloud, no subscription. Developed by Syon Automation LLC.
 
-**Download:** [SiteWatch-Setup-3.10.1.exe](https://syonautomation.com/download/SiteWatch-Setup-3.10.1.exe) (free 14-day trial, every feature)
+**Download:** [SiteWatch-Setup-3.10.2.exe](https://syonautomation.com/download/SiteWatch-Setup-3.10.2.exe) (free 14-day trial: every feature, up to 2 live sensors)
 · Product page and licenses: https://syonautomation.com/sitewatch.html
 
 ## Proof of concept: a real installation
@@ -26,6 +26,10 @@ Video: https://syonautomation.com/sitewatch.html#watch
 - **Alerts**: signal lost, no gateway, high/low limits, gas, corrosion class, weak signal, missed reports, low battery, sensor faults, calibration due. Sent as a Windows pop-up, e-mail, text (e-mail to text) or free phone push (ntfy).
 - **Sensor records**: function, calibration required, installed date, calibration due date with a reminder one week before.
 - **Screen settings follow your data**: marker sizes, colours and calibration are saved with SiteWatch's data, so updates keep them.
+
+## Editions
+
+Starter $595 (10 sensors), Plant $1,495 (50), Site $3,495 (250), one-time with 12 months of updates. Add sensors in packs of 10 (Starter $299 up to 50, Plant $249 up to 250, Site $129 up to 1,000) or move up a tier for the price difference: https://licenses.syonautomation.com/sitewatch-more
 
 ## Requirements
 

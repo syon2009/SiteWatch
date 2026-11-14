@@ -1,5 +1,10 @@
 # SiteWatch changelog
 
+## 3.10.2 (2026-11-13)
+- Free trial: 14 days, every feature, up to 2 live sensors (demo mode still shows 60).
+- License window: sensor packs of 10 and tier upgrades, with a link to add sensors; + Add sensor at the license limit opens the license window.
+- Installer and MSI code-signed.
+
 ## 3.10.1 (2026-11-13)
 - "+ Add sensor" button on the Sensors toolbar and on an empty Sensors page: opens a new sensor entry with numbered steps, or the sensors already asking to join.
 - The owner license no longer shows a license pill in the top bar.
