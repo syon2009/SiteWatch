@@ -1,5 +1,10 @@
 # SiteWatch changelog
 
+## 3.10.1 (2026-11-13)
+- "+ Add sensor" button on the Sensors toolbar and on an empty Sensors page: opens a new sensor entry with numbered steps, or the sensors already asking to join.
+- The owner license no longer shows a license pill in the top bar.
+- Installer and MSI code-signed.
+
 ## 3.10.0 (2026-11-06)
 - Phone app: SiteWatch can be added to a phone's Home Screen and opens full screen (manifest, app icons), with a layout for phone screens (scrolling tabs, 2-column tiles, full-screen windows, scrollable tables).
 - Gateway signal levels: RSSI, SNR, link margin and rating, noise floor, damaged packets (CRC), gateway status report, 24-hour RSSI/SNR chart, per-sensor and per-channel tables; 7 days of history kept and rebuilt from saved reports on first start. Main page "Gateway" tile.

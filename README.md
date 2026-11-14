@@ -3,7 +3,7 @@
 One dashboard for wireless LoRaWAN temperature, corrosion (ISA-71.04) and gas sensors.
 Runs on your own Windows PC and your own network. No cloud, no subscription. Developed by Syon Automation LLC.
 
-**Download:** [SiteWatch-Setup-3.10.0.exe](https://syonautomation.com/download/SiteWatch-Setup-3.10.0.exe) (free 14-day trial, every feature)
+**Download:** [SiteWatch-Setup-3.10.1.exe](https://syonautomation.com/download/SiteWatch-Setup-3.10.1.exe) (free 14-day trial, every feature)
 · Product page and licenses: https://syonautomation.com/sitewatch.html
 
 ## Proof of concept: a real installation
@@ -15,6 +15,7 @@ Video: https://syonautomation.com/sitewatch.html#watch
 
 ## What it does
 
+- **Add a sensor in one place (new in 3.10.1)**: the **+ Add sensor** button on the Sensors page walks through name, model and the join keys from the sensor's label, or jumps straight to a sensor that is already asking to join.
 - **Every sensor on one screen**: live readings, alarms, uptime, signal health and the gateway itself.
 - **Built-in LoRaWAN network server**: any gateway that speaks Semtech UDP (Dragino, RAK, Milesight and others) sends straight to SiteWatch. ADFweb HD67F25 (EtherNet/IP) and Modbus sources are supported too.
 - **Gateway signal levels (new in 3.10)**: what the concentrator hears: RSSI, SNR, link margin, noise floor, damaged packets, channels in use, and a 24-hour chart, kept for 7 days.
