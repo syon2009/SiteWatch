@@ -1,5 +1,8 @@
 # SiteWatch changelog
 
+## 3.10.4 (2026-11-14)
+- Fix: in 3.10.3 the main page could not load ("App not reachable", empty sensor list) while a LoRaWAN gateway was connected. Data kept recording; only the screen was affected. 3.10.3 was withdrawn.
+
 ## 3.10.3 (2026-11-14)
 - Radar tab: gateway in the centre, sensors on rings at their distance (range colours, pulsing when live, grey when offline); drag to set each sensor's real direction (remembered), Reset directions, optional sweep and safe-range ring; log ring spacing and name-only labels on large sites.
 - Devices that aren't yours: a sensor's join requests show under its name once added; other devices the gateway hears go to a collapsed "Other devices heard (not yours)" list with Hide; the Gateway tile and worst-link rating use only your sensors.
