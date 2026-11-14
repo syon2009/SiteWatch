@@ -3,7 +3,7 @@
 One dashboard for wireless LoRaWAN temperature, corrosion (ISA-71.04) and gas sensors.
 Runs on your own Windows PC and your own network. No cloud, no subscription. Developed by Syon Automation LLC.
 
-**Download:** [SiteWatch-Setup-3.10.2.exe](https://syonautomation.com/download/SiteWatch-Setup-3.10.2.exe) (free 14-day trial: every feature, up to 2 live sensors)
+**Download:** [SiteWatch-Setup-3.10.3.exe](https://syonautomation.com/download/SiteWatch-Setup-3.10.3.exe) (free 14-day trial: every feature, up to 2 live sensors)
 · Product page and licenses: https://syonautomation.com/sitewatch.html
 
 ## Proof of concept: a real installation
@@ -21,6 +21,7 @@ Video: https://syonautomation.com/sitewatch.html#watch
 - **Gateway signal levels (new in 3.10)**: what the concentrator hears: RSSI, SNR, link margin, noise floor, damaged packets, channels in use, and a 24-hour chart, kept for 7 days.
 - **Distance to the gateway (new in 3.10)**: an estimate for every sensor from its signal strength, with a "safe up to" range. One tape-measure reading ("I measured it") calibrates the whole site; a second reading also measures how the site absorbs signal.
 - **Floor plans with range rings (new in 3.10)**: live sensors pulse with rings coloured by distance (blue closest, red farthest), with distance, signal, battery and last report under each name.
+- **Radar (new in 3.10.3)**: the gateway in the middle and every sensor on a ring at its distance, coloured by range; drag a sensor to its real direction and SiteWatch remembers it. Devices that aren't yours (neighbours' LoRaWAN sensors) are kept in a separate list and can be hidden.
 - **Phone app (new in 3.10)**: open SiteWatch on any phone on your network and add it to the Home Screen; it opens full screen like an app, laid out for phone screens.
 - **Trends**: day, week, month and year, saved automatically, with PDF reports for any time range.
 - **Alerts**: signal lost, no gateway, high/low limits, gas, corrosion class, weak signal, missed reports, low battery, sensor faults, calibration due. Sent as a Windows pop-up, e-mail, text (e-mail to text) or free phone push (ntfy).

@@ -1,5 +1,10 @@
 # SiteWatch changelog
 
+## 3.10.3 (2026-11-14)
+- Radar tab: gateway in the centre, sensors on rings at their distance (range colours, pulsing when live, grey when offline); drag to set each sensor's real direction (remembered), Reset directions, optional sweep and safe-range ring; log ring spacing and name-only labels on large sites.
+- Devices that aren't yours: a sensor's join requests show under its name once added; other devices the gateway hears go to a collapsed "Other devices heard (not yours)" list with Hide; the Gateway tile and worst-link rating use only your sensors.
+- Installer and MSI code-signed.
+
 ## 3.10.2 (2026-11-13)
 - Free trial: 14 days, every feature, up to 2 live sensors (demo mode still shows 60).
 - License window: sensor packs of 10 and tier upgrades, with a link to add sensors; + Add sensor at the license limit opens the license window.
